@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: lightgray;
 }
 
 .top-part {
@@ -9,13 +10,20 @@ body {
 }
 
 .left-part {
-    border-right-color: gray;
-    border-bottom:200px;
-    /* background-color: grey;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
     height: 700px;
-    width: 400px; */
 }
 
 .right-part {
-    position: right;
+
+}
+
+.bottom-part {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+    height: 100px;
+    z-index: -1;
 }
