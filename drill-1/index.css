@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.top-part {
+    position: relative;
+    height: 150px;
+    background-color: rgb(72, 73, 82)
+}
+
+.left-part {
+    border-right-color: gray;
+    border-bottom:200px;
+    /* background-color: grey;
+    height: 700px;
+    width: 400px; */
+}
+
+.right-part {
+    position: right;
+}

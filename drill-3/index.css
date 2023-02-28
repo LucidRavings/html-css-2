@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+
+.top-part {
+    position: relative;
+    height: 125px;
+    background-color: rgb(199, 195, 211)
+}
+
+.blue-square {
+    position: relative;
+    bottom: 100px;
+    left: 25px;
+    height:75px;
+    width:75px;
+    background-color: rgb(104, 127, 255);
+    z-index: 1;
+}
+
+.white-box {
+    height:300px;
+    background-color: white;
+}
+
+.bar1 {
+    height:250px;
+    background-color:rgb(93, 143, 252) ;
+}
+
+.bar2 {
+    height:250px;
+    background-color:lightskyblue
+}
+
+.bar3 {
+    height:250px;
+    background-color: rgb(175, 236, 175)
+}
+
+.bar4 {
+    height:250px;
+    background-color: rgb(255, 255, 132)
+}
+
+.text-box1 {
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+    bottom: 1300px
+}
+
+.text-box2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+    bottom: 1250px
+}
